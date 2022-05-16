@@ -1,3 +1,11 @@
+Bu web sitesi React SPA mantığı ile inşa edilmiştir. Api'den gelen bilgileri cart halinde kullanıcının hizmetine sunmaktadır.
+## Kurulum
+```bach
+git clone https://github.com/Madanoglus/react-router.git
+cd react-router
+npm run start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
