@@ -1,4 +1,4 @@
-Bu web sitesi React SPA mantığı ile inşa edilmiştir. Api'den gelen bilgileri cart halinde kullanıcının hizmetine sunmaktadır.
+Bu web sitesi React SPA mantığı ile inşa edilmiştir. Api'den gelen bilgileri kart halinde kullanıcının hizmetine sunmaktadır.
 ## Kurulum
 ```bach
 git clone https://github.com/Madanoglus/react-router.git
